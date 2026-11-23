@@ -1,5 +1,7 @@
 # SkillEvaluator 速查表 | SkillEvaluator Cheatsheet | Guía rápida de SkillEvaluator
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **NVIDIA 给 skill 做体检的三层框架——先免钥匙打个分，再看第一屏的成本卡，实跑对照的账算清了再跑**
 
 > 一页看懂 NVIDIA/SkillEvaluator：NVIDIA 开源的 agent skill 评测框架，属 NVIDIA Verified Skills 流水线。它评的是 skill 这个工件本身，不是模型也不是 agent：写得规范吗、安全吗、各家 harness 真能加载吗、和别的 skill 有没有语义重复、装上到底有没有用。这张卖的是三层各答一问、免钥匙第一步和成本卡——跑满三层要什么、哪里会标 INCOMPLETE，都在第一屏说清。
